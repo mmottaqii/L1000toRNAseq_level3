@@ -47,4 +47,4 @@ For any further inquiries or contributions, feel free to contact the repository 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License.
